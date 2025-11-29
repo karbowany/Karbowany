@@ -29,7 +29,7 @@ I enjoy experimenting with a mix of languages and tools:
 ## 💬 Contact
 If you want to reach out or talk tech:
 
-**Discord:** `Karbowany`  
+**Discord:** `Karbowanyofficial`  
 
 ---
 
