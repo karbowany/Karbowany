@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**karbowany/Karbowany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to my space  
+### I'm **Karbowany** — passionate about building, learning and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Technology Toolkit
+I enjoy experimenting with a mix of languages and tools:
+
+<div align="center">
+  
+| Languages | Tools | Frontend | Backend |
+|----------|-------|----------|---------|
+| Lua, Python, C, C++, C# | Git, Shell, SQL | HTML, CSS, JS, React | APIs, Node.js |
+
+</div>
+
+---
+
+## 🌱 What I'm Currently Doing
+- 📘 Diving deeper into **low-level programming**
+- 🧪 Experimenting with **automation & tooling**
+- 🛠 Expanding personal projects and exploring new ideas
+- 🤝 Open to contributing to interesting open-source projects
+
+---
+
+## 💬 Contact
+If you want to reach out or talk tech:
+
+**Discord:** `Karbowany`  
+
+---
+
+## 🧩 A Little More About Me
+- ✨ I love turning small ideas into fully functional tools  
+- 🚀 My journey began from simple scripts and grew into real development passion  
+- 🎧 Coding with music is my ultimate flow mode  
+
+---
+
+### 🌌 Thanks for stopping by!
+</div>
